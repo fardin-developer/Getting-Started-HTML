@@ -1,0 +1,23 @@
+2.Ans:
+ Ans: We comment in html for writing our own notes which need not to render. eg
+    <!-- this is a comment and it will not render -->
+
+
+    
+4.ans:
+HTML tag : An HTML tag is a set of characters enclosed within angle brackets <> that specifies how a
+    browser should interpret and display content.
+    example : <h1> is an opening tag, and </h1> is a closing tag. Together, they define a top-level heading.
+    <p> and </p> define a paragraph.
+    <a> and </a> define a hyperlink, and the href attribute specifies the link's destination.
+
+HTML element: An HTML element is formed by an opening tag, content, and a closing tag. The opening tag
+    and closing tag, along with the content inside, collectively make up an element.
+    example:<h1>This is an HTML <em>Heading</em></h1>
+            <p>This is a <strong>paragraph</strong> of text.</p>
+
+
+
+5.Ans: 
+Docotype Declaration: Its purpose is to inform the browser which version of HTML the document
+ adheres to, ensuring that the document is rendered correctly.
